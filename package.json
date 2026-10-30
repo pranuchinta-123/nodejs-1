@@ -1,13 +1,12 @@
 {
   "name": "node",
   "version": "1.0.0",
-  "description": "",
+  "description": "Node.js Jenkins CI/CD project",
   "main": "app.js",
   "scripts": {
-  "test": "echo \"Tests passed successfully\""
-}
+    "test": "echo \"Tests passed successfully\""
+  },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "type": "commonjs"
+  "license": "ISC"
 }
